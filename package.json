@@ -1,0 +1,22 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "learning_task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenmeat-test/JSlearn.git"
+  },
+  "author": "Sergey Rychkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenmeat-test/JSlearn/issues"
+  },
+  "homepage": "https://github.com/Greenmeat-test/JSlearn#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
