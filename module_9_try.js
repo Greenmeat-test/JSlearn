@@ -9,7 +9,7 @@
     console.log("‘let must be declared’ before use")
  }
 try {
-   a = 1/0 ;
+   let a = 1/0 ;
    throw new Error('cannot be divided by zero');
 } catch (err) {
    console.log(err) 
